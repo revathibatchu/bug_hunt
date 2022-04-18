@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.uh.pat.AVLTree_ESTest
 -------------------------------------------------------------------------------
-Tests run: 19, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.654 sec <<< FAILURE!
-test15(com.uh.pat.AVLTree_ESTest)  Time elapsed: 0.014 sec  <<< ERROR!
+Tests run: 19, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.756 sec <<< FAILURE!
+test15(com.uh.pat.AVLTree_ESTest)  Time elapsed: 0.012 sec  <<< ERROR!
 org.evosuite.runtime.mock.java.lang.MockRuntimeException: duplicate Key!
 	at com.uh.pat.AVLTree.insert(AVLTree.java:53)
 	at com.uh.pat.AVLTree.insert(AVLTree.java:30)
